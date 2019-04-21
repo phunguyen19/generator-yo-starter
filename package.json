@@ -1,0 +1,31 @@
+{
+  "name": "generator-yo-starter",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "generator"
+  ],
+  "author": "Phu Nguyen <phu.nguyen19@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "decamelize": "^3.1.1",
+    "uppercamelcase": "^3.0.0",
+    "yeoman-generator": "^3.2.0"
+  },
+  "files": [
+    "app"
+  ]
+}
