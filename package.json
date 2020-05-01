@@ -26,7 +26,7 @@
     "decamelize": "^3.1.1",
     "uppercamelcase": "^3.0.0",
     "yeoman-generator": "^3.2.0",
-    "snyk": "^1.189.0"
+    "snyk": "^1.316.1"
   },
   "files": [
     "app"
